@@ -80,7 +80,7 @@ python3 main.py # Run the bot
 
 ### ᴄʀᴇᴅɪᴛs 💖
 - Ritik chouhan:  Developer
-- [Fallen Music Bot](https://telegram.me/algoesbot): Test Bot
+- [Fallen Music Bot](@algoesbot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ------------------------------------------------
